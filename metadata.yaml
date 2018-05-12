@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6812
     wikipedia: http://en.wikipedia.org/wiki/Charles_Alden_Seltzer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25754#The-Range-Boss
 gutenberg_issued: '2008-06-10'
 gutenberg_type: Text
 identifiers:
